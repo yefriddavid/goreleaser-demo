@@ -1,4 +1,0 @@
-97a7eb1bc82077fc70618d0300daa3725ce789b5e003c4a69211dd11ea91d053  goreleaser-demo_0.0.1_Linux_i386.tar.gz
-5cbc1e5784c74910c4ea3719d7d48b7252baeddb40553501244b06a7a5b3bbef  goreleaser-demo_0.0.1_Linux_x86_64.tar.gz
-342f95d5b6ab9bcba9877b610616cb8785c45b83691973d3ac386e8cca66f011  goreleaser-demo_0.0.1_Darwin_x86_64.tar.gz
-3b2cfeef5ea96c0ebf9eaf5dad48e4501ab95dec0dd8ac3cac126ea85f5c3ead  goreleaser-demo_0.0.1_Darwin_i386.tar.gz
